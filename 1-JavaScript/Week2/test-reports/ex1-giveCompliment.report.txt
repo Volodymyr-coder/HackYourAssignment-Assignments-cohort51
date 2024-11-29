@@ -3,7 +3,7 @@
  PASS  .dist/1-JavaScript/Week2/unit-tests/ex1-giveCompliment.test.js
   js-wk2-ex1-giveCompliment
     ✅ should exist and be executable (2 ms)
-    ✅ should have all TODO comments removed (1 ms)
+    ✅ should have all TODO comments removed
     ✅ `giveCompliment` should not contain unneeded console.log calls (1 ms)
     ✅ should take a single parameter
     ✅ should include a `compliments` array inside its function body (1 ms)
@@ -13,7 +13,7 @@
 Test Suites: 1 passed, 1 total
 Tests:       7 passed, 7 total
 Snapshots:   0 total
-Time:        0.967 s, estimated 1 s
+Time:        0.694 s, estimated 1 s
 Ran all test suites matching /C:\\Users\\vlady\\Desktop\\HYF\\HackYourAssignment-Assignments-cohort51\\.dist\\1-JavaScript\\Week2\\unit-tests\\ex1-giveCompliment.test.js/i.
 No linting errors detected.
 

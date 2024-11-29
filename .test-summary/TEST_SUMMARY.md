@@ -7,3 +7,4 @@
 |      Exercise      | Passed | Failed | ESLint |
 |--------------------|--------|--------|--------|
 | ex1-giveCompliment |   7    |   -    |   ✕    |
+| ex2-dogYears       |   7    |   -    |   ✕    |
