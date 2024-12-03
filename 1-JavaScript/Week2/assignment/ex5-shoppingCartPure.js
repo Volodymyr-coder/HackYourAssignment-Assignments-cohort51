@@ -23,9 +23,7 @@ function addToShoppingCart(initialCart, nameProduct) {
     newProductCart.push(nameProduct);
   }
 
-  let arrInfo = newProductCart.join(', ');
-  let message = `You bought ${arrInfo}!`;
-  return message;
+  return newProductCart;
 }
 
 // ! Test functions (plain vanilla JavaScript)

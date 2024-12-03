@@ -35,7 +35,6 @@ function filterPrivateData(array) {
     occupation,
     email,
   }));
-  console.log(newEmployData);
   return newEmployData;
 }
 
